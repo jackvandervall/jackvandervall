@@ -47,7 +47,7 @@ AI-driven automation of the CRISP-DM framework: from business understanding and 
 
 <div align="center">
 
-![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackvandervall&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats-eight-psi-61.vercel.app/api?username=jackvandervall&show_icons=true&hide=prs,issues,contribs&theme=tokyonight)
 
 <sub>Rotterdam, NL</sub>
 
