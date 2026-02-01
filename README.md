@@ -35,6 +35,9 @@ AI-driven automation of the CRISP-DM framework: from business understanding and 
 **[agentic-archive](https://github.com/jackvandervall/agentic-archive)**
 <br/>Collection of n8n-based agentic architectures: multi-model orchestration, RAG-to-SQL, autonomous research agents.
 
+**[file-to-vector](https://github.com/jackvandervall/file-to-vector)**
+<br/>Streamlit GUI for document-to-embedding ingestion into Supabase pgvector databases.
+
 **[resume-job-matcher](https://github.com/jackvandervall/resume-job-matcher)**
 <br/>Semantic matching between resumes and job descriptions using sentence transformers.
 
@@ -42,8 +45,6 @@ AI-driven automation of the CRISP-DM framework: from business understanding and 
 <br/>PM2.5 prediction model using Random Forest and PCA on Dutch RIVM station data.
 
 <br/>
-
----
 
 <div align="center">
 
