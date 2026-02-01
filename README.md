@@ -41,5 +41,14 @@ AI-driven automation of the CRISP-DM framework: from business understanding and 
 **[air-quality-prediction](https://github.com/jackvandervall/air-quality-prediction)**
 <br/>PM2.5 prediction model using Random Forest and PCA on Dutch RIVM station data.
 
-
 <br/>
+
+---
+
+<div align="center">
+
+![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackvandervall&show_icons=true&theme=transparent)
+
+<sub>Rotterdam, NL</sub>
+
+</div>
