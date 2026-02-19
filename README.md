@@ -28,6 +28,11 @@ Multi-agent system for automated analysis of business documents: contracts, quot
 
 AI-driven automation of the CRISP-DM framework: from business understanding and data extraction to model selection and insight generation at scale.
 
+**[social-ai-chatbot](https://github.com/jackvandervall/social-ai-chatbot)**
+> Studio Project @ [Pauluskerk Rotterdam](https://pauluskerkrotterdam.nl)
+
+AI-powered triage and information chatbot for homeless aid volunteers. Uses PydanticAI agents with Supabase pgvector memory for context-aware guidance on social services and procedures.
+
 <br/>
 
 ### Open Source & Research
