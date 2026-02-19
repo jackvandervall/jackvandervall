@@ -24,7 +24,7 @@
 Multi-agent system for automated analysis of business documents: contracts, quotes, and proposals. Flags deviations in delivery terms, payment conditions, and scope changes to mitigate operational and financial risk.
 
 **[data-mining-platform](https://github.com/jackvandervall/data-mining-platform)**
-> Internship @ [Erasmus Centre for Data Analytics](https://www.eur.nl/en/research/research-cooperation/erasmus-centre-data-analytics)
+> Internship @ [Erasmus Centre for Data Analytics](https://ecda.eur.nl/en/)
 
 AI-driven automation of the CRISP-DM framework: from business understanding and data extraction to model selection and insight generation at scale.
 
