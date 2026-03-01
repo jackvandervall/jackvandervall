@@ -5,7 +5,7 @@
 ### Data Science & AI student @ RUAS | Automation & AI solutions @ [Opusmatic](https://opusmatic.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackvandervall)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/jackvandervall)
-[![Opusmatic](https://img.shields.io/badge/Opusmatic-5865F2?style=for-the-badge)](https://opusmatic.com)
+[![Opusmatic](https://img.shields.io/badge/Opusmatic-1E1E1E?style=for-the-badge)](https://opusmatic.com)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/light-transparent.svg">
